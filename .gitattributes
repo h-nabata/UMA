@@ -11,3 +11,4 @@ uma-env/largefile.bin filter=lfs diff=lfs merge=lfs -text
 /home/hiruneko/anaconda3/pkgs/libtorch-2.4.1-cuda118_h7d43891_300/lib/libtorch_cuda.so filter=lfs diff=lfs merge=lfs -text
 /home/hiruneko/anaconda3/pkgs/libtorch-2.4.1-cuda118_h7d43891_300/lib/libtorch_cuda_linalg.so filter=lfs diff=lfs merge=lfs -text
 /home/hiruneko/tmp/tmp/lib.tar.gz filter=lfs diff=lfs merge=lfs -text
+uma-env/lib.tar.gz filter=lfs diff=lfs merge=lfs -text
